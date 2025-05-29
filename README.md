@@ -153,7 +153,8 @@ http://localhost:8080/HostelManagementSystem/
 * ![Screenshot 2025-05-29 215113](https://github.com/user-attachments/assets/bd56fda1-7441-4f60-8ede-da0d49641769)
 
 * 📊 Generate Report
-* ![Uploading Screenshot 2025-05-29 215405.png…]()
+* ![Screenshot 2025-05-29 215405](https://github.com/user-attachments/assets/99930673-1b4b-42d4-8ff0-8718018d8eaa)
+
 
 
 ## 🌟 Usage Application
