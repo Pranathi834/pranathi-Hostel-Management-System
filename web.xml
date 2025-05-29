@@ -1,0 +1,70 @@
+
+<web-app>
+<!-- Servlet for adding a student -->
+    <servlet>
+        <servlet-name>AddStudentServlet</servlet-name>
+        <servlet-class>com.servlet.AddStudentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddStudentServlet</servlet-name>
+        <url-pattern>/addStudent</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for updating a student -->
+    <servlet>
+        <servlet-name>UpdateStudentServlet</servlet-name>
+        <servlet-class>com.servlet.UpdateStudentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateStudentServlet</servlet-name>
+        <url-pattern>/updateStudent</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for deleting a student -->
+    <servlet>
+        <servlet-name>DeleteStudentServlet</servlet-name>
+        <servlet-class>com.servlet.DeleteStudentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteStudentServlet</servlet-name>
+        <url-pattern>/deleteStudent</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for displaying students -->
+    <servlet>
+        <servlet-name>DisplayStudentsServlet</servlet-name>
+        <servlet-class>com.servlet.DisplayStudentsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DisplayStudentsServlet</servlet-name>
+        <url-pattern>/displayStudents</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for handling report criteria form -->
+    <servlet>
+        <servlet-name>ReportCriteriaServlet</servlet-name>
+        <servlet-class>com.servlet.ReportCriteriaServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReportCriteriaServlet</servlet-name>
+        <url-pattern>/reportCriteria</url-pattern>
+    </servlet-mapping>
+
+    <!-- Servlet for generating reports -->
+    <servlet>
+        <servlet-name>ReportServlet</servlet-name>
+        <servlet-class>com.servlet.ReportServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReportServlet</servlet-name>
+        <url-pattern>/report</url-pattern>
+    </servlet-mapping>
+
+    <!-- Welcome file -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>
+
+
