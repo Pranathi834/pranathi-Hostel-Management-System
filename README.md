@@ -141,10 +141,20 @@ http://localhost:8080/HostelManagementSystem/
 * ![Screenshot 2025-05-29 213810](https://github.com/user-attachments/assets/fc33c76e-1a31-49d0-8846-1b7d9dab54a6)
 
 * ➕ Add Hostel Page
-* 🔍 Search Hostel
-* ❌ Delete Hostel
+* ![Screenshot 2025-05-29 214350](https://github.com/user-attachments/assets/19aaab38-3dde-414b-babd-d8baa829ae5b)
+  
 * 🆕 Update Hostel
+* ![Screenshot 2025-05-29 214648](https://github.com/user-attachments/assets/37e7bf0b-f502-4369-9595-5a49810e9ee4)
+
+* ❌ Delete Hostel
+* ![Screenshot 2025-05-29 214845](https://github.com/user-attachments/assets/264c9d16-d513-4639-8469-56bcdb3828af)
+
 * 📋 Display Hostels
+* ![Screenshot 2025-05-29 215113](https://github.com/user-attachments/assets/bd56fda1-7441-4f60-8ede-da0d49641769)
+
+* 📊 Generate Report
+* ![Uploading Screenshot 2025-05-29 215405.png…]()
+
 
 ## 🌟 Usage Application
 
