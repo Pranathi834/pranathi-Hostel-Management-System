@@ -138,6 +138,8 @@ http://localhost:8080/HostelManagementSystem/
 ## 🖼️ Screenshots
 
 * 🏠 Home Page
+* ![Screenshot 2025-05-29 213810](https://github.com/user-attachments/assets/fc33c76e-1a31-49d0-8846-1b7d9dab54a6)
+
 * ➕ Add Hostel Page
 * 🔍 Search Hostel
 * ❌ Delete Hostel
